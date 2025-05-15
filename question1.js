@@ -10,3 +10,5 @@ for(let i=start_provider-1;i<edges.length;i++){
     
 }
 console.log(arr);
+//Here the keys of availability refers to type of equipment and edges comes with type and availability of equipment.
+// With all the details I have given the result array.

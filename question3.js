@@ -12,3 +12,4 @@ for(let i=0;i<queries.length;i++){
     arr.push(sum);
 }
 console.log(arr);
+//Here with date range of details and maintenance , I have given the result array of amount spent on maintenance.

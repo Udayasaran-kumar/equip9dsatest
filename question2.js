@@ -14,3 +14,4 @@ for(let i=0;i<sellers.length;i++){
 // console.log(a,b);
 let arr=[a,b];
 console.log(arr);
+//Here with the details of request rate and provided rate I have given the result of possible and successfull purchse detail.
